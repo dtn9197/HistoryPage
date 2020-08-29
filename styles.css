@@ -1,0 +1,39 @@
+header {
+    background-color: #CCCCFF;
+    border: 2px solid #CCCCFF;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0px;
+}
+
+header p {
+    margin-bottom: 0px;
+}
+
+h1 {
+    font-weight: normal;
+}
+
+
+figure {
+    text-align: center;
+}
+
+.block-content-image {
+    max-width: 300px;
+}
+#washington-image {
+    height: 400px;
+    
+}
+
+
+.block-content {
+    width: 50%;
+}
+main {
+    background-color: rgba(184, 119, 20, 0.37);
+   
+}

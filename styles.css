@@ -1,3 +1,7 @@
+body {
+    width: 80%;
+    margin: auto;
+}
 header {
     background-color: #CCCCFF;
     border: 2px solid #CCCCFF;
@@ -14,6 +18,7 @@ header p {
 
 h1 {
     font-weight: normal;
+    text-align: center;
 }
 
 
@@ -29,11 +34,43 @@ figure {
     
 }
 
-
-.block-content {
-    width: 50%;
+#progressive-era {
+    background-color: rgba(153,204,204,1);
 }
+
+#progressive-era-block {
+    background-color: rgb(204,204,255);
+}
+
+#depression {
+    background-color: rgba(204,204,102);
+}
+#depression-block {
+    background-color: rgba(230, 183, 107 ,1);
+}
+
+
 main {
     background-color: rgba(184, 119, 20, 0.37);
    
+}
+
+
+#block {
+    width: 50%;
+    margin: auto;
+}
+
+#block img {
+    display: block;
+    margin: auto;
+}
+.block-content h2 {
+    text-align: center;
+}
+.block-content h3 {
+    margin-bottom: 0px;
+}
+.horizontal-line {
+    border: 3px solid brown;
 }
